@@ -26,6 +26,14 @@ This project demonstrates an **end-to-end data science pipeline** including:
 The system predicts churn risk and also explains **why a customer might churn** using **SHAP explainability**.
 
 ---
+## Dataset
+
+Dataset used in this project:
+
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+This dataset contains telecom customer information including demographics, services, billing details, and a **Churn** column indicating whether the customer left the company.
+---
 
 # 🧠 How The System Works
 
