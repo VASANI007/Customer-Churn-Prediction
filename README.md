@@ -33,7 +33,6 @@ Dataset used in this project:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 This dataset contains telecom customer information including demographics, services, billing details, and a **Churn** column indicating whether the customer left the company.
----
 
 # 🧠 How The System Works
 
